@@ -52,11 +52,7 @@ public class OrderBinaryTree {
             System.out.print(head.val+" ");   //输出根节点
             if (head.right!=null){
                 midOrderBiTree(head.right);  //递归遍历右子树
-
             }
-
-
-
         }
 
     }
