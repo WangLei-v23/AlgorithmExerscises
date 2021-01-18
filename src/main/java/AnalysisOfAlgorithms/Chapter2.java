@@ -58,8 +58,8 @@ public class Chapter2 {
 	public static void main(String[] args) {
 		
 		//测试递归全排列
-//      int[] arr = { 1, 2, 3, 4 };
-//      fullSort(arr, 0, arr.length - 1);
+      int[] arr = { 1, 2, 3, 4 };
+      fullSort(arr, 0, arr.length - 1);
 
 	}
 
