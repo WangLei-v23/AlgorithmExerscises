@@ -8,7 +8,7 @@ import java.util.List;
  * @Author: WangLei
  * @Date: 2020/11/3 21:58
  */
-public class T108 {
+public class T108_sortedArrayToBST {
     /**
      * 将一个按照升序排列的有序数组，转换为一棵高度平衡二叉搜索树
      * 在二叉搜索树中：
@@ -44,10 +44,10 @@ public class T108 {
 
     public static void main(String[] args) {
         int data[]={1,2,3,4,5,6,7,8,9,10};
-        T108 t108 = new T108();
+        T108_sortedArrayToBST t108 = new T108_sortedArrayToBST();
         TreeNode root = t108.sortedArrayToBST(data);
-        T102 t102 = new T102();
-        List<List<Integer>> lists = t102.levelOrder(root);
+        T102_levelOrder t102LevelOrder = new T102_levelOrder();
+        List<List<Integer>> lists = t102LevelOrder.levelOrder(root);
         System.out.println(lists.toString());
 
 
