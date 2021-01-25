@@ -1,7 +1,5 @@
 package JavaBasic;
 
-import java.lang.reflect.Array;
-
 public class DailyLifeGenerator {
 
     public static int random(){//测试通过
@@ -33,7 +31,7 @@ public class DailyLifeGenerator {
         if(b>40&&b<=50) System.out.println("java一章");
         if(b>50&&b<=60) System.out.println("数据结构一章");
         if(b>60&&b<=70) System.out.println("英语（背单词+看原著）");
-        if(b>70&&b<=80) System.out.println("一部电影/纪录片）");
+        if(b>70&&b<=80) System.out.println("一部电影/纪录片");
         if(b>80&&b<=90) System.out.println("复习java和数据结构各一章");
         if(b>90&&b<=100) System.out.println("GHS");
 
