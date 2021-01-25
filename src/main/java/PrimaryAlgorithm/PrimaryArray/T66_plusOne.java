@@ -2,7 +2,7 @@ package PrimaryAlgorithm.PrimaryArray;
 
 import java.util.Arrays;
 
-public class Array7 {
+public class T66_plusOne {
 	/**
 	 *思路1：从后往前遍历，遇到10就进位，直到digits[0]
 	 *思路2：将数组存为链表，从后往前遍历，遇到10就进位，直到gitits[0]

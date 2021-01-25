@@ -1,6 +1,6 @@
 package PrimaryAlgorithm.PrimaryString;
 
-public class String1 {
+public class T344_reverseString {
 	/**反转字符串
 	 * 编写一个函数，其作用是将输入的字符串反转过来。输入字符串以字符数组 char[] 的形式给出。
 	 */

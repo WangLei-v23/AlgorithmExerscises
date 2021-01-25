@@ -1,6 +1,6 @@
 package PrimaryAlgorithm.PrimaryList;
 
-public class List2 {
+public class T19_removeNthFromEnd {
     /**删除链表的倒数第N个节点
      * 给定一个链表: 1->2->3->4->5, 和 n = 2.
      * 当删除了倒数第二个节点后，链表变为 1->2->3->5.

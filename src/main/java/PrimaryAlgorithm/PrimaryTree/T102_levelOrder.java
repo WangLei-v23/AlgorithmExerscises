@@ -3,12 +3,12 @@ package PrimaryAlgorithm.PrimaryTree;
 import java.util.*;
 
 /**
- * @ClassName: T102
+ * @ClassName: T102_levelOrder
  * @Description:
  * @Author: WangLei
  * @Date: 2020/10/21 21:52
  */
-public class T102 {
+public class T102_levelOrder {
 
     List<List<Integer>> result=new ArrayList<>();
     Queue<TreeNode> queue = new LinkedList<>();
@@ -56,8 +56,8 @@ public class T102 {
         node3.left=node6;
         node3.right=node7;
 
-        T102 t102 = new T102();
-        List<List<Integer>> lists = t102.levelOrder(node1);
+        T102_levelOrder t102LevelOrder = new T102_levelOrder();
+        List<List<Integer>> lists = t102LevelOrder.levelOrder(node1);
         System.out.println(lists.toString());
 
     }

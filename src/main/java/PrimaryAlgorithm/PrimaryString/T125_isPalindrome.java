@@ -1,7 +1,7 @@
 package PrimaryAlgorithm.PrimaryString;
 
 
-public class String5 {
+public class T125_isPalindrome {
 	/**验证回文字符串(即为中间对称的字符串，只考虑字母和数字字符，可以忽略字母的大小写。
 	 * 思路：
 	 * 先去除String中的所有标点和空格

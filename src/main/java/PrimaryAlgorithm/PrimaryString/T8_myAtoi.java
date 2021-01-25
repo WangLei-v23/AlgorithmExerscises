@@ -1,7 +1,7 @@
 package PrimaryAlgorithm.PrimaryString;
 
 
-public class String6 {
+public class T8_myAtoi {
 	/**字符串转换整数 (atoi)
 	 *要点：严格按照题意写，思路不对赶紧改（一不小心就浪费一天时间
 	 *String比较时用equals,char比较时用==

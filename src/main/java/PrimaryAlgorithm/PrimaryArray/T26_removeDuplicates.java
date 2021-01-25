@@ -1,6 +1,6 @@
 package PrimaryAlgorithm.PrimaryArray;
 
-public class Array1 {
+public class T26_removeDuplicates {
 	public static int removeDuplicates(int[] nums) {
 		/**
 		 * 先理解题意：

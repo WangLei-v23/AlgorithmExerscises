@@ -7,7 +7,7 @@ package PrimaryAlgorithm.PrimaryTree;
  * @Date: 2020/10/9 17:55
  * @Version: V1.0
  */
-public class T101 {
+public class T101_isSymmetric {
 
 
     /**
@@ -69,7 +69,7 @@ public class T101 {
         node2.right=node5;
         node3.left=node6;
         node3.right=node7;
-        T101 t101 = new T101();
+        T101_isSymmetric t101 = new T101_isSymmetric();
         boolean symmetric = t101.isSymmetric(node1);
         System.out.println(symmetric);
 
@@ -77,6 +77,7 @@ public class T101 {
     }
 
 
+    //思路1：舍弃
     //    ArrayList<Integer> nodeRignt=new ArrayList<>();
 //    ArrayList<Integer> nodeLeft=new ArrayList<>();
 //

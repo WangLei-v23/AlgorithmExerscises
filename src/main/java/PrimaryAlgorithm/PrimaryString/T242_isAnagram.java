@@ -3,7 +3,7 @@ package PrimaryAlgorithm.PrimaryString;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 
-public class String4 {
+public class T242_isAnagram {
 	/**有效的字母异位词
 	 * 
 	 * 思路：

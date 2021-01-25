@@ -1,6 +1,6 @@
 package PrimaryAlgorithm.PrimaryList;
 
-public class List3 {
+public class T206_reverseList {
 	/**反转链表
 	 *思路:手写reverse
 	 *先获取链表长度√

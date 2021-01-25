@@ -2,7 +2,7 @@ package PrimaryAlgorithm.PrimaryList;
 
 import java.util.HashSet;
 
-public class List6 {
+public class T141_hasCycle {
     /**环形链表
      * 思路1：快慢双指针法
      *

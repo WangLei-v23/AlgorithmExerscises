@@ -1,6 +1,6 @@
 package PrimaryAlgorithm.PrimaryArray;
 
-public class Array2 {
+public class T122_maxProfit {
 	
 	/**
 	 * 买股票想要获取最大利润，那么我们首先需要先检查数组中第一个数字，

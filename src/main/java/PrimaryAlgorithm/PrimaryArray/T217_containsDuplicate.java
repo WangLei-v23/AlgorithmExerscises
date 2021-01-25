@@ -1,6 +1,6 @@
 package PrimaryAlgorithm.PrimaryArray;
 
-public class Array4 {
+public class T217_containsDuplicate {
 	
 	/**
 	 * 存在重复元素

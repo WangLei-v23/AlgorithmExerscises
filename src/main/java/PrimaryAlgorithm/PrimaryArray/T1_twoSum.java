@@ -2,7 +2,7 @@ package PrimaryAlgorithm.PrimaryArray;
 
 import java.util.Arrays;
 
-public class Array9 {
+public class T1_twoSum {
 	/**两数之和
 	 * 
 	 */

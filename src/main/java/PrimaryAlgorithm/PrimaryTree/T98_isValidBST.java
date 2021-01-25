@@ -10,7 +10,7 @@ import java.util.List;
  * author: WangLei
  * version: 1.0
  */
-public class T98 {
+public class T98_isValidBST {
 
     List<Integer> addTree = new ArrayList<>();
     /**
@@ -94,7 +94,7 @@ public class T98 {
         treeNode2.right = treeNode5;
         treeNode3.left = treeNode6;
         treeNode3.right = treeNode7;
-        T98 t98 = new T98();
+        T98_isValidBST t98 = new T98_isValidBST();
 
         //方法1：二叉搜索树的特性 ： 左节点 < 中节点 < 右节点
         //恰好符合二叉树中序遍历的特点 所以中序遍历后 对得到的结果进行顺序校验即可

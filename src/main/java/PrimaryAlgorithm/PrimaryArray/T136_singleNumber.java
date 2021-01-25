@@ -13,7 +13,7 @@ import java.util.Arrays;
 		一个数a与另一个数b异或的结果等于a^b，用结果（ a^b)异或a，就会得到b；
  */
 
-public class Array5 {
+public class T136_singleNumber {
     public static int singleNumber(int[] nums) {
     	if (nums.length==0||nums==null) {
 			return 0;

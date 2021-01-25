@@ -3,7 +3,7 @@ package PrimaryAlgorithm.PrimaryArray;
 import java.util.Arrays;
 
 
-public class Array8 {
+public class T283_moveZeroes {
 	/**
 	 *思路1：每次遍历遇到0,x的情况就互换，互换后重置i,j
 	 *超时不可取

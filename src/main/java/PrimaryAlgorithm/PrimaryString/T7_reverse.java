@@ -1,6 +1,6 @@
 package PrimaryAlgorithm.PrimaryString;
 
-public class String2 {
+public class T7_reverse {
 	/**整数反转（反转后的数如果溢出（int的表示范围）需要另外处理
 	 * 
 	 * 要点1：如何将int类型转换为char[]类型？

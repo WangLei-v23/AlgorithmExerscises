@@ -1,6 +1,6 @@
 package PrimaryAlgorithm.PrimaryTree;
 
-public class MaxDeepOfTree {
+public class T104_maxDepth {
 
     /**
     * @Author: WangLei
@@ -51,7 +51,7 @@ public class MaxDeepOfTree {
         treeNode3.left=treeNode4;
         treeNode3.right=treeNode5;
 
-        MaxDeepOfTree maxDeepOfTree = new MaxDeepOfTree();
+        T104_maxDepth maxDeepOfTree = new T104_maxDepth();
         int i = maxDeepOfTree.maxDepth(treeNode1);
         System.out.println("maxdeep="+i);
     }

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 
-public class Array6 {
+public class T350_intersect {
 	
 	
 	/**

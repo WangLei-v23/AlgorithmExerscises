@@ -1,7 +1,7 @@
 package PrimaryAlgorithm.PrimaryList;
 
 
-public class List4 {
+public class T21_mergeTwoLists {
 	
 	/**合并两个有序链表
 	 */

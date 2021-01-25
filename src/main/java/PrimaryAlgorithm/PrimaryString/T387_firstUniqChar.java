@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class String3 {
+public class T387_firstUniqChar {
 	/**字符串中的第一个唯一字符
 	 *思路：先排序，再将唯一字符存入list，接着遍历char[]
 	 *遍历时与list中的字符比较，第一个匹配到的元素即为第一个唯一字符

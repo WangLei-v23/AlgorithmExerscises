@@ -1,6 +1,6 @@
 package PrimaryAlgorithm.PrimaryString;
 
-public class String9 {
+public class T14_longestCommonPrefix {
 	/**最长公共前缀
 	 *
 	 */

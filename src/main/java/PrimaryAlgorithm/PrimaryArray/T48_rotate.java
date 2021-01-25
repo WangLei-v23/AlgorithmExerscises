@@ -1,6 +1,6 @@
 package PrimaryAlgorithm.PrimaryArray;
 
-public class Array11 {
+public class T48_rotate {
 	
     /**旋转矩阵
      * 思路1：先沿对角线对折，再沿中线对折

@@ -1,6 +1,6 @@
 package PrimaryAlgorithm.PrimaryList;
 
-public class List1 {
+public class T237_deleteNode {
     /**删除指定结点node
      *思路:
      *因为没有数组,正常删除需要获取node的上一个结点

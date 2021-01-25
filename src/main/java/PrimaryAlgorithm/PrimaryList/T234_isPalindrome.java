@@ -1,6 +1,6 @@
 package PrimaryAlgorithm.PrimaryList;
 
-public class List5 {
+public class T234_isPalindrome {
 	/**验证回文链表
 	 * 思路1：设置两个指针，两种走法
 	 * 		走法1：两个指针都从中间开始，向两头跑
