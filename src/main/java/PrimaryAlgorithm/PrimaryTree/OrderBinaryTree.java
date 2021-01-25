@@ -1,4 +1,4 @@
-package PrimaryTree;
+package PrimaryAlgorithm.PrimaryTree;
 
 /**
  * description: OrderBinaryTree

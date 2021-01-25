@@ -1,4 +1,4 @@
-package PrimaryTree;
+package PrimaryAlgorithm.PrimaryTree;
 
 import java.util.ArrayList;
 import java.util.List;

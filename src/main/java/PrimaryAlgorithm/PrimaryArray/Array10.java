@@ -1,4 +1,4 @@
-package PrimaryArray;
+package PrimaryAlgorithm.PrimaryArray;
 
 import java.util.ArrayList;
 import java.util.HashSet;

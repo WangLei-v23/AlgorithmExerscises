@@ -1,4 +1,4 @@
-package PrimaryList;
+package PrimaryAlgorithm.PrimaryList;
 
 public class List3 {
 	/**反转链表

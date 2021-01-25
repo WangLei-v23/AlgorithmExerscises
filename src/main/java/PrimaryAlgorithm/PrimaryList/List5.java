@@ -1,4 +1,4 @@
-package PrimaryList;
+package PrimaryAlgorithm.PrimaryList;
 
 public class List5 {
 	/**验证回文链表

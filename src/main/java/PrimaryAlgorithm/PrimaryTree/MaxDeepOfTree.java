@@ -1,4 +1,4 @@
-package PrimaryTree;
+package PrimaryAlgorithm.PrimaryTree;
 
 public class MaxDeepOfTree {
 

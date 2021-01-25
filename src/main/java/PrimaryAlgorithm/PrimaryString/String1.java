@@ -1,4 +1,4 @@
-package PrimaryString;
+package PrimaryAlgorithm.PrimaryString;
 
 public class String1 {
 	/**反转字符串

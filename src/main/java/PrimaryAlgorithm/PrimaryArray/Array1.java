@@ -1,4 +1,4 @@
-package PrimaryArray;
+package PrimaryAlgorithm.PrimaryArray;
 
 public class Array1 {
 	public static int removeDuplicates(int[] nums) {

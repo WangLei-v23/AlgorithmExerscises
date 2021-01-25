@@ -1,4 +1,4 @@
-package PrimaryTree;
+package PrimaryAlgorithm.PrimaryTree;
 
 /**
  * @Classname: test

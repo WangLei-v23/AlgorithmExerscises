@@ -1,4 +1,4 @@
-package PrimaryString;
+package PrimaryAlgorithm.PrimaryString;
 
 public class String8 {
 	/**报数

@@ -1,4 +1,4 @@
-package PrimaryList;
+package PrimaryAlgorithm.PrimaryList;
 
 
 public class List4 {

@@ -1,4 +1,4 @@
-package PrimaryString;
+package PrimaryAlgorithm.PrimaryString;
 
 public class String7 {
 	/**实现 strStr() 函数。

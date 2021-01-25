@@ -1,4 +1,4 @@
-package PrimaryList;
+package PrimaryAlgorithm.PrimaryList;
 
 public class List2 {
     /**删除链表的倒数第N个节点

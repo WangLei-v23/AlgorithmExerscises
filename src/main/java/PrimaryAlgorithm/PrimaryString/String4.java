@@ -1,4 +1,4 @@
-package PrimaryString;
+package PrimaryAlgorithm.PrimaryString;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

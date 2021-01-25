@@ -1,4 +1,4 @@
-package PrimaryString;
+package PrimaryAlgorithm.PrimaryString;
 
 public class String2 {
 	/**整数反转（反转后的数如果溢出（int的表示范围）需要另外处理
