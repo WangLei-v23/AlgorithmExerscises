@@ -14,9 +14,13 @@ interface saySomthing{
     void say();
 }
 
+@FunctionalInterface
 interface transToInteger{
-
+    Integer transfrom(String str);
 }
+
+
+
 
 public class testLambda {
     //将接口的实现类作为形参 调用实现类的方法 借用此方法将函数作为参数传递
@@ -60,6 +64,20 @@ public class testLambda {
         };
         //调用方法 即可看到使用lambda表达式对于say方法的实现
         s.say();
+
+        //引用类方法
+        transToInteger t1=str -> Integer.valueOf(str);
+        //如果只有一行调用类方法的代码，可以写为如下形式
+        transToInteger t2=Integer::valueOf;
+        Integer integer1 = t1.transfrom("1000");
+        Integer integer2 = t2.transfrom("1000");
+        System.out.println(integer1+integer2);
+
+        //引用特定对象的实例方法
+        transToInteger t3 = "abcdefg"::indexOf;
+        System.out.println(t3.transfrom("cd"));
+
+        //引用某类对象的实例方法
 
 
 
