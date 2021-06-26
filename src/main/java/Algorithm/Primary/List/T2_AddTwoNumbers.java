@@ -74,19 +74,3 @@ public class T2_AddTwoNumbers {
 }
 
 
-/**
-* @Author: WangLei
-* @Description: //TODO 题目要求的ListNode
-* @Date: 22:25 2020/7/29
-* @Param:  
-* @return: 
-**/
-class ListNode{
-    ListNode next;
-    int val;
-
-    public ListNode(int val) {
-        this.val = val;
-    }
-
-}
