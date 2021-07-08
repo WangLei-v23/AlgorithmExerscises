@@ -18,7 +18,7 @@ public class TreeMapTest {
         Iterator iterator = keySet.iterator();
         while (iterator.hasNext()) {
             Object next = iterator.next();
-            System.out.println(next+"---"+treeMap.get(next));
+            System.out.println(next+"---"+treeMap.get(next)+"---"+next.hashCode());
         }
     }
 }
@@ -36,10 +36,10 @@ class b implements Comparable{
         return (this.num>c.num)?1:((this.num==c.num)?0:-1);
     }
 
-    @Override
-    public String toString() {
-        return "b{" +
-                "num=" + num +
-                '}';
-    }
+//    @Override
+//    public String toString() {
+//        return "b{" +
+//                "num=" + num +
+//                '}';
+//    }
 }
