@@ -1,4 +1,4 @@
-package SouthWind.s023;
+package SouthWind.s023_024;
 
 import java.util.*;
 
@@ -74,27 +74,29 @@ public class HashMapTest {
                     if ((e = p.next) == null) {//优先处理链表尾部 移动指针e
                         p.next = newNode(hash, key, value, null);//将元素插入链表尾部
                         if (binCount >= TREEIFY_THRESHOLD - 1) // -1 for 1st  判断插入元素后的链表长度是否达到树化临界值
-                            treeifyBin(tab, hash);//达到临界值 树化（函数中还存在另一层哈希桶长度>64的临界值 哈希桶<64时，使用扩容代替树化）
+                            treeifyBin(tab, hash);//达到临界值 树化
+                        // （函数中还存在另一层哈希桶长度>64的临界值 哈希桶<64时，使用扩容代替树化）
+                        //能用数组尽量用数组，因为数组查询效率更高，能够使hashmap的查询接近O(1)
                         break;
                     }
                     if (e.hash == hash &&//遍历时遇到key相同 且 value相同的节点
                             ((k = e.key) == key || (key != null && key.equals(k))))
                         break;//完全相同 不做处理 跳出判断
-                    //就是移动指针p 方便继续取
+                    //其实就是移动指针p 继续遍历
                     p = e;//基于上一个if条件中的e = p.next 此行代码相当于p.next
                 }
             }
             if (e != null) { // existing mapping for key
-                V oldValue = e.value;
+                V oldValue = e.value;//如果存在相同的key值
                 if (!onlyIfAbsent || oldValue == null)
-                    e.value = value;
+                    e.value = value;//覆盖key值相同node的value
                 afterNodeAccess(e);
                 return oldValue; //返回被覆盖的 value
             }
         }
         ++modCount;//增加变动次数
         if (++size > threshold)//判断存入后的哈希桶是否需要扩容 threshold=capacity* loadFactor=16*0.75=12
-            resize();
+            resize();//扩容操作
         afterNodeInsertion(evict);
         //如果 key 不重复，则返回 null
         return null;
