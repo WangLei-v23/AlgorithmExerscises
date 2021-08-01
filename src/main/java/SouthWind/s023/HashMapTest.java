@@ -1,4 +1,4 @@
-package SouthWind.s023_024;
+package SouthWind.s023;
 
 import java.util.*;
 
