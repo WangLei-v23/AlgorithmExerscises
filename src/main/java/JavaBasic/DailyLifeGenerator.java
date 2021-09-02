@@ -27,7 +27,7 @@ public class DailyLifeGenerator {
          *  7学英语（背单词+看原著），
          *  8一部电影（或纪录片），
          *  9复习java和数据结构各一章
-         *  10GHS
+         *  10 comic
          */
 
         int b = random();
