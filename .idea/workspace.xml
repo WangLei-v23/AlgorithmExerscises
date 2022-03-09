@@ -5,263 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="109c20a9-88cc-4737-a4a7-ccaa62bccf31" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AlgorithmExerscises.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Array/T122_maxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Array/T122_maxProfit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Array/T136_singleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Array/T136_singleNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Array/T189_rotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Array/T189_rotate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Array/T1_twoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Array/T1_twoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Array/T217_containsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Array/T217_containsDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Array/T26_removeDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Array/T26_removeDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Array/T283_moveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Array/T283_moveZeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Array/T350_intersect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Array/T350_intersect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Array/T36_isValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Array/T36_isValidSudoku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Array/T48_rotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Array/T48_rotate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Array/T66_plusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Array/T66_plusOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/List/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/List/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/List/T141_hasCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/List/T141_hasCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/List/T19_removeNthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/List/T19_removeNthFromEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/List/T206_reverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/List/T206_reverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/List/T21_mergeTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/List/T21_mergeTwoLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/List/T234_isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/List/T234_isPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/List/T237_deleteNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/List/T237_deleteNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/List/T2_AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/List/T2_AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/String/T125_isPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/String/T125_isPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/String/T14_longestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/String/T14_longestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/String/T242_isAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/String/T242_isAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/String/T28_strStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/String/T28_strStr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/String/T344_reverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/String/T344_reverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/String/T387_firstUniqChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/String/T387_firstUniqChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/String/T38_countAndSay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/String/T38_countAndSay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/String/T7_reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/String/T7_reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/String/T8_myAtoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/String/T8_myAtoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Tree/OrderBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Tree/OrderBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Tree/T101_isSymmetric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Tree/T101_isSymmetric.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Tree/T102_levelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Tree/T102_levelOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Tree/T104_maxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Tree/T104_maxDepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Tree/T108_sortedArrayToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Tree/T108_sortedArrayToBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Tree/T98_isValidBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Tree/T98_isValidBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/Primary/Tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/Primary/Tree/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Algorithm/weekly_rank/week270/score3_270.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/LeetCode/weekly_rank/w270/score3_270.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CrazyHandout/cp4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/CrazyHandout/cp4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/SwordRefersToffer/T1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Algorithm/SwordRefersToffer/T1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test/BarrierTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QueueTest/BarrierTimer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test/BoundedQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QueueTest/BoundedQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Test/PerformanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QueueTest/PerformanceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Array/T122_maxProfit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Array/T136_singleNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Array/T189_rotate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Array/T1_twoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Array/T217_containsDuplicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Array/T26_removeDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Array/T283_moveZeroes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Array/T350_intersect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Array/T36_isValidSudoku.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Array/T48_rotate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Array/T66_plusOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/List/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/List/T141_hasCycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/List/T19_removeNthFromEnd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/List/T206_reverseList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/List/T21_mergeTwoLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/List/T234_isPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/List/T237_deleteNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/List/T2_AddTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/String/T125_isPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/String/T14_longestCommonPrefix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/String/T242_isAnagram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/String/T28_strStr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/String/T344_reverseString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/String/T387_firstUniqChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/String/T38_countAndSay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/String/T7_reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/String/T8_myAtoi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Tree/OrderBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Tree/T101_isSymmetric.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Tree/T102_levelOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Tree/T104_maxDepth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Tree/T108_sortedArrayToBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Tree/T98_isValidBST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/Primary/Tree/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Algorithm/weekly_rank/week270/score3_270.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CrazyHandout/cp4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/DailyLifeGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/DailyLifeGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/Enum_demo/EnumTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/Enum_demo/EnumTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/Enum_demo/EnumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/Enum_demo/EnumTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/Enum_demo/SeasonEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/Enum_demo/SeasonEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/abstract_demo/shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/abstract_demo/shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/abstract_demo/triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/abstract_demo/triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/cachemodeltest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/cachemodeltest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/finaltest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/finaltest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/finaly.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/finaly.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/lambdatest/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/lambdatest/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/lambdatest/addnumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/lambdatest/addnumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/lambdatest/saySomthing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/lambdatest/saySomthing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/lambdatest/testLambda$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/lambdatest/testLambda$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/lambdatest/testLambda$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/lambdatest/testLambda$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/lambdatest/testLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/lambdatest/testLambda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/lambdatest/transToInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/lambdatest/transToInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/simplecommand/outArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/simplecommand/outArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/simplecommand/process.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/simplecommand/process.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/simplecommand/processArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/simplecommand/processArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/simplecommand/sumArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/simplecommand/sumArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/simplecommand/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/simplecommand/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/simplefactory/Output.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/simplefactory/Output.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/simplefactory/OutputFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/simplefactory/OutputFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/simplefactory/computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/simplefactory/computer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/simplefactory/massage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/simplefactory/massage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/simplefactory/massage2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/simplefactory/massage2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/simplefactory/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/simplefactory/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/single.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/single.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaBasic/singleclass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaBasic/singleclass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/AlgorithmExerscises.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s001/s001.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s001/s001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s002/s002$saySomthing.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s002/s002$saySomthing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s002/s002.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s002/s002.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s003/s003.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s003/s003.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s004/child.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s004/child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s004/parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s004/parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s004/s004.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s004/s004.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s004/stub.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s004/stub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s007/s.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s007/s.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s007/s007.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s007/s007.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s007/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s007/test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s007/tets.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s007/tets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s007/tets3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s007/tets3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s008/ab1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s008/ab1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s008/abtest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s008/abtest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s008/figure.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s008/figure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s008/s.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s008/s.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s008/s008.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s008/s008.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s008/square.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s008/square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s008/t.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s008/t.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s009/Cashier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s009/Cashier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s009/OrdinaryCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s009/OrdinaryCustomer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s009/SuperCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s009/SuperCustomer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s009/customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s009/customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s009/s009.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s009/s009.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s011/BugattiVeyron.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s011/BugattiVeyron.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s011/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s011/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s011/F1Race.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s011/F1Race.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s011/Ferrari.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s011/Ferrari.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s011/Tesla.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s011/Tesla.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s011/s11_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s011/s11_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s012/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s012/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s012/MyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s012/MyException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s012/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s012/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s013/Express.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s013/Express.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s013/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s013/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s013/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s013/test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s014/MyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s014/MyRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s014/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s014/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s014/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s014/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s015/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s015/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s015/HyClock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s015/HyClock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s015/simpleClock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s015/simpleClock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s015/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s015/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s015/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s015/test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s015/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s015/test3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s015/tets4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s015/tets4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s016/DeadLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s016/DeadLockDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s016/ReentrantLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s016/ReentrantLockDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s016/data.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s016/data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s016/singleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s016/singleDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s016/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s016/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s016/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s016/test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s016/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s016/test3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s017/MyCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s017/MyCallable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s017/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s017/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s017/TestCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s017/TestCallable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s017/TricketRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s017/TricketRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s018/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s018/Data.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s018/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s018/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s018/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s018/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s019/ReadWriteLockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s019/ReadWriteLockTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s019/cache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s019/cache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s019/cache2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s019/cache2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s019/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s019/test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s019/test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s019/test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s019/test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s019/test3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s019/testRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s019/testRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s020/threadPoolTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s020/threadPoolTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s021/collectionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s021/collectionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s022/TreeSetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s022/TreeSetTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s022/b.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s022/b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s023/HashMapTest$K.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s023/HashMapTest$K.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s023/HashMapTest$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s023/HashMapTest$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s023/HashMapTest$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s023/HashMapTest$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s023/HashMapTest$V.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s023/HashMapTest$V.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s023/HashMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s023/HashMapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s023/TreeMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s023/TreeMapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s023/b.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s023/b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s025/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s025/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s025/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s025/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s025/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s025/Time.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s025/WeekEnumTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s025/WeekEnumTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s026/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s026/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s026/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s026/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s027/CopyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s027/CopyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s027/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s027/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s027/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s027/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s027/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s027/Test3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s028/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s028/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s028/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s028/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s028/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s028/Test3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s028/Test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s028/Test4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s028/Test5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s028/Test5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s028/Test6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s028/Test6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s028/copyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s028/copyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s028/copyTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s028/copyTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s029/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s029/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s029/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s029/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s029/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s029/Test3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s029/Test4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s029/Test4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s029/entity/cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s029/entity/cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s029/entity/dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s029/entity/dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s030/Impl/BigCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s030/Impl/BigCar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s030/Impl/Huawei.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s030/Impl/Huawei.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s030/Impl/Xiaomi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s030/Impl/Xiaomi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s030/Inf/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s030/Inf/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s030/Inf/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s030/Inf/Phone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s030/Proxy/MyInvocationHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s030/Proxy/MyInvocationHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s030/Proxy/PhoneProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s030/Proxy/PhoneProxy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s030/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s030/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s030/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s030/Test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s031/TCP/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s031/TCP/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s031/TCP/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s031/TCP/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s031/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s031/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s031/UDP/TerminalA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s031/UDP/TerminalA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s031/UDP/TerminalB.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s031/UDP/TerminalB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s032Transition/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s032Transition/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s032Transition/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s032Transition/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SouthWind/s032Transition/SocketThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SouthWind/s032Transition/SocketThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SwordRefersToffer/T1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test/BarrierTimer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test/BoundedQueue$Entry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test/BoundedQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test/PerformanceTest$Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test/PerformanceTest$Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test/PerformanceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test/ThreadId$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test/ThreadId.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test/testQueue$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Test/testQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -277,6 +44,9 @@
     </option>
   </component>
   <component name="ProjectId" id="25scuYO2pR3e1XfJfrz8akkIS6v" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -289,7 +59,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager" selected="Application.T8_myAtoi">
     <configuration name="T1_twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
